@@ -47,8 +47,8 @@ python-dotenv
 
 Quickstart
 1. Clone
-git clone https://github.com/<your-username>/multi-agent-crewai-demo.git
-cd multi-agent-crewai-demo
+git clone [https://github.com/InfiniteLoopster-coder/CrewAI_Multi_Agent.git]
+cd CrewAI_Multi_Agent
 
 2. Create & activate venv (optional but recommended)
 python -m venv .venv
